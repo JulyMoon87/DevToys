@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "22.0.2",
+    "@rollup/plugin-commonjs": "28.0.3",
     "@rollup/plugin-node-resolve": "14.1.0",
     "@rollup/stream": "2.0.0",
     "@types/gulp": "^4.0.9",
