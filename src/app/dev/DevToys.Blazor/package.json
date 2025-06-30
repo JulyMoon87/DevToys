@@ -42,6 +42,6 @@
     "del": "6.1.1",
     "fs": "0.0.2",
     "merge-stream": "^2.0.0",
-    "stylelint-scss": "^4.2.0"
+    "stylelint-scss": "^6.12.0"
   }
 }
