@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "28.0.3",
-    "@rollup/plugin-node-resolve": "14.1.0",
+    "@rollup/plugin-node-resolve": "16.0.1",
     "@rollup/stream": "2.0.0",
     "@types/gulp": "^4.0.9",
     "@types/gulp-clean-css": "^4.3.0",
